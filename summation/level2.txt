@@ -1,0 +1,5 @@
+question:
+  https://codeiq.jp/ace/yanai_masakazu/q657
+
+answer:
+  eval("var a=[,,,,,,,,,].length;(i%a!=0)?i%a:a;")
