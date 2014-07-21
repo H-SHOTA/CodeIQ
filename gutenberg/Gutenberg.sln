@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gutenberg", "ConsoleApplication1\gutenberg.csproj", "{A457DFAC-DEFA-4D49-A3CC-FF43B1E09CC5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gutenberg", "gutenberg\gutenberg.csproj", "{A457DFAC-DEFA-4D49-A3CC-FF43B1E09CC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
